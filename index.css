@@ -1,0 +1,21 @@
+body {
+  background-color: rebeccapurple;
+  text-align: center;
+  margin: 108px;
+}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 200%;
+}
+button {
+  border-radius: 20px;
+  background-color: red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  border: inset;
+  font-size: 200%;
+}
+button:hover {
+  background-color: yellow;
+  font-size: 150%;
+}
